@@ -1,2 +1,2 @@
 # QA_Challenge
-Please refer to the [a link](https://github.com/user/repo/blob/branch/read_me_steps.txt)
+Please refer to the [read_me_steps.txt](https://github.com/kunalkk3/QA_Challenge/blob/master/read_me_steps.txt)
